@@ -1,0 +1,363 @@
+{
+"1":{
+"question": "Cuanto es 4 x 4?\n(a) 4\n(b) 44\n(c) 16\n(d) 15\n",
+"answer": "c",
+"more_info": "La respuesta era 16, 4x4=16",
+"user_response": "None"
+},
+"2":{
+"question": "Cuanto es 6 x 4?\n(a) 24\n(b) 16\n(c) 15\n(d) 29\n",
+"answer": "a",
+"more_info": "La respuesta era 24, 6x4=24",
+"user_response": "None"
+},
+"3":{
+"question": "Cuanto es 6 x 3?\n(a) 12\n(b) 81\n(c) 18\n(d) 44\n",
+"answer": "c",
+"more_info": "La respuesta era 18, 6x3=18",
+"user_response": "None"
+},
+"4":{
+"question": "Cuanto es 10 x 6?\n(a) 50\n(b) 60\n(c) 66\n(d) 36\n",
+"answer": "b",
+"more_info": "La respuesta era 60, 10x6=60",
+"user_response": "None"
+},
+"5":{
+"question": "Cuanto es 6 x 9?\n(a) 54\n(b) 16\n(c) 35\n(d) 14\n",
+"answer": "a",
+"more_info": "La respuesta era 54, 6x9=54",
+"user_response": "None"
+},
+"6":{
+"question": "Cuanto es 5 x 2?\n(a) 5\n(b) 15\n(c) 12\n(d) 10\n",
+"answer": "d",
+"more_info": "La respuesta era 10, 5x2=10",
+"user_response": "None"
+},
+"7":{
+"question": "Cuanto es 3 x 8?\n(a) 22\n(b) 27\n(c) 22\n(d) 24\n",
+"answer": "d",
+"more_info": "La respuesta era 24, 3x8=24",
+"user_response": "None"
+},
+"8":{
+"question": "Cuanto es 6 x 9?\n(a) 35\n(b) 24\n(c) 54\n(d) 18\n",
+"answer": "c",
+"more_info": "La respuesta era 54, 6x9=54",
+"user_response": "None"
+},
+"9":{
+"question": "Cuanto es 3 x 10?\n(a) 25\n(b) 89\n(c) 21\n(d) 30\n",
+"answer": "d",
+"more_info": "La respuesta era 30, 3x10=30",
+"user_response": "None"
+},
+"10":{
+"question": "Cuanto es 2 x 6?\n(a) 12\n(b) 16\n(c) 62\n(d) 26\n",
+"answer": "a",
+"more_info": "La respuesta era 12, 2x6=12",
+"user_response": "None"
+},
+   "11": {
+"question": "Cuanto es 4 x 1?\n(a) 41\n(b) 4\n(c) 24\n(d) 40\n",
+"answer": "b",
+"more_info": "La respuesta era 4, 4x1=4",
+"user_response": "None"
+    },
+    "12": {
+"question": "Cuanto es 4 x 9?\n(a) 27\n(b) 32\n(c) 34\n(d) 36\n",
+"answer": "d",
+"more_info": "La respuesta era 36, 4x9=36",
+"user_response": "None"
+    },
+    "13": {
+"question": "Cuanto es 5 x 4?\n(a) 18\n(b) 40\n(c) 20\n(d) 32\n",
+"answer": "c",
+"more_info": "La respuesta era 20, 5x4=20",
+"user_response": "None"
+    },
+    "14": {
+"question": "Cuanto es 6 x 8?\n(a) 52\n(b) 56\n(c) 44\n(d) 48\n",
+"answer": "d",
+"more_info": "La respuesta era 48, 6x8=48",
+"user_response": "None"
+    },
+    "15": {
+"question": "Cuanto es 3 x 9?\n(a) 21\n(b) 27\n(c) 19\n(d) 31\n",
+"answer": "b",
+"more_info": "La respuesta era 27, 3x9=27",
+"user_response": "None"
+    },
+    "16": {
+"question": "Cuanto es 3 x 7?\n(a) 21\n(b) 25\n(c) 28\n(d) 31\n",
+"answer": "a",
+"more_info": "La respuesta era 21, 3x7=21",
+"user_response": "None"
+    },
+    "17": {
+"question": "Cuanto es 10 x 5?\n(a) 80\n(b) 15\n(c) 55\n(d) 50\n",
+"answer": "d",
+"more_info": "La respuesta era 50, 10x5=50",
+"user_response": "None"
+    },
+    "18": {
+"question": "Cuanto es 4 x 2?\n(a) 2\n(b) 81\n(c) 8\n(d) 18\n",
+"answer": "c",
+"more_info": "La respuesta era 8, 4x2=8",
+"user_response": "None"
+    },
+   "19": {
+"question": "Cuanto es 2 x 9?\n(a) 29\n(b) 2\n(c) 18\n(d) 20\n",
+"answer": "c",
+"more_info": "La respuesta era 18, 2x9=18",
+"user_response": "None"
+    },
+    "20": {
+"question": "Cuanto es 4 x 5?\n(a) 20\n(b) 25\n(c) 45\n(d) 18\n",
+"answer": "a",
+"more_info": "La respuesta era 20, 4x5=20",
+"user_response": "None"
+    },
+    "21": {
+"question": "Cuanto es 1 x 1?\n(a) 1\n(b) 10\n(c) 11\n(d) 100\n",
+"answer": "a",
+"more_info": "La respuesta era 1, 1x1x=1",
+"user_response": "None"
+    },
+    "22": {
+"question": "Cuanto es 5 x 3?\n(a) 12\n(b) 25\n(c) 27\n(d) 15\n",
+"answer": "d",
+"more_info": "La respuesta era 15, 5x3=15",
+"user_response": "None"
+    },
+    "23": {
+"question": "Cuanto es 4 x 8?\n(a) 36\n(b) 42\n(c) 32\n(d) 26\n",
+"answer": "c",
+"more_info": "La respuesta era 32, 4x8=32",
+"user_response": "None"
+    },
+    "24": {
+"question": "Cuanto es 10 x 10?\n(a) 110\n(b) 0\n(c) 99\n(d) 100\n",
+"answer": "d",
+"more_info": "La respuesta era 100, 10x10=100",
+"user_response": "None"
+    },
+    "25": {
+"question": "Cuanto es 10 x 7?\n(a) 70\n(b) 700\n(c) 27\n(d) 10\n",
+"answer": "a",
+"more_info": "La respuesta era 70, 10x7=70",
+"user_response": "None"
+    },
+    "26": {
+"question": "Cuanto es 4 x 9?\n(a) 32\n(b) 46\n(c) 66\n(d) 36\n",
+"answer": "d",
+"more_info": "La respuesta era 36, 4x9=36",
+"user_response": "None"
+    },
+    "27": {
+"question": "Cuanto es 4 x 10?\n(a) 40\n(b) 41\n(c) 4\n(d) 38\n",
+"answer": "a",
+"more_info": "La respuesta era 40, 4x10=40",
+"user_response": "None"
+    },
+    "28": {
+"question": "Cuanto es 3 x 7?\n(a) 21\n(b) 12\n(c) 27\n(d) 31\n",
+"answer": "a",
+"more_info": "La respuesta era 21, 3x7=21",
+"user_response": "None"
+    },
+    "29": {
+"question": "Cuanto es 5 x 6?\n(a) 20\n(b) 30\n(c) 65\n(d) 21\n",
+"answer": "b",
+"more_info": "La respuesta era 30, 5x6=30",
+"user_response": "None"
+    },
+    "30": {
+"question": "Cuanto es 10 x 4?\n(a) 4\n(b) 41\n(c) 42\n(d) 40\n",
+"answer": "d",
+"more_info": "La respuesta era 40, 10x4=40",
+"user_response": "None"
+    },
+    "31": {
+"question": "Cuanto es 6 x 6?\n(a) 66\n(b) 36\n(c) 46\n(d) 48\n",
+"answer": "b",
+"more_info": "La respuesta era 36, 6x6=36",
+"user_response": "None"
+    },
+    "32": {
+"question": "Cuanto es 3 x 6?\n(a) 21\n(b) 33\n(c) 16\n(d) 18\n",
+"answer": "d",
+"more_info": "La respuesta era 18, 3x6=18",
+"user_response": "None"
+    },
+    "33": {
+"question": "Cuanto es 2 x 8?\n(a) 16\n(b) 9\n(c) 2\n(d) 18\n",
+"answer": "a",
+"more_info": "La respuesta era 16, 2x8=16",
+"user_response": "None"
+    },
+    "34": {
+"question": "Cuanto es 2 x 2?\n(a) 20\n(b) 8\n(c) 6\n(d) 4\n",
+"answer": "d",
+"more_info": "La respuesta era 4, 2x2=4",
+"user_response": "None"
+    },
+    "35": {
+"question": "Cuanto es 6 x 7?\n(a) 37\n(b) 45\n(c) 42\n(d) 32\n",
+"answer": "c",
+"more_info": "La respuesta era 42, 6x7=42",
+"user_response": "None"
+    },
+    "36": {
+"question": "Cuanto es 6 x 10?\n(a) 50\n(b) 60\n(c) 58\n(d) 54\n",
+"answer": "b",
+"more_info": "La respuesta era 60, 6x10=60",
+"user_response": "None"
+    },
+    "37": {
+"question": "Cuanto es 3 x 4?\n(a) 12\n(b) 16\n(c) 18\n(d) 17\n",
+"answer": "a",
+"more_info": "La respuesta era 12, 3x4=2",
+"user_response": "None"
+    },
+    "38": {
+"question": "Cuanto es 4 x 7?\n(a) 26\n(b) 32\n(c) 34\n(d) 28\n",
+"answer": "d",
+"more_info": "La respuesta era 28, 4x7=28",
+"user_response": "None"
+    },
+    "39": {
+"question": "Cuanto es 5 x 6?\n(a) 16\n(b) 28\n(c) 30\n(d) 25\n",
+"answer": "c",
+"more_info": "La respuesta era 30, 5x6=30",
+"user_response": "None"
+    },
+    "40": {
+"question": "Cuanto es 4 x 6?\n(a) 24\n(b) 28\n(c) 26\n(d) 18\n",
+"answer": "a",
+"more_info": "La respuesta era 24, 4x6=24",
+"user_response": "None"
+    },
+    "41": {
+"question": "Cuanto es 4 x 3?\n(a) 16\n(b) 12\n(c) 18\n(d) 15\n",
+"answer": "b",
+"more_info": "La respuesta era 12, 4x3=12",
+"user_response": "None"
+    },
+    "42": {
+"question": "Cuanto es 6 x 2?\n(a) 28\n(b) 23\n(c) 12\n(d) 18\n",
+"answer": "c",
+"more_info": "La respuesta era 12, 6x2=12",
+"user_response": "None"
+    },
+    "43": {
+"question": "Cuanto es 5 x 4?\n(a) 20\n(b) 24\n(c) 40\n(d) 54\n",
+"answer": "a",
+"more_info": "La respuesta era 20, 5x4=20",
+"user_response": "None"
+    },
+    "44": {
+"question": "Cuanto es 3 x 1?\n(a) 1\n(b) 2\n(c) 3\n(d) 5\n",
+"answer": "c",
+"more_info": "La respuesta era 3, 3x1=3",
+"user_response": "None"
+    },
+    "45": {
+"question": "Cuanto es 2 x 7?\n(a) 7\n(b) 8\n(c) 14\n(d) 16\n",
+"answer": "c",
+"more_info": "La respuesta era 14, 2x7=14",
+"user_response": "None"
+    },
+    "46": {
+"question": "Cuanto es 3 x 2?\n(a) 2\n(b) 4\n(c) 8\n(d) 6\n",
+"answer": "d",
+"more_info": "La respuesta era 6, 3x2=6",
+"user_response": "None"
+    },
+    "47": {
+"question": "Cuanto es 6 x 5?\n(a) 30\n(b) 25\n(c) 65\n(d) 41\n",
+"answer": "a",
+"more_info": "La respuesta era 30, 6x5=30",
+"user_response": "None"
+    },
+    "48": {
+"question": "Cuanto es 10 x 6?\n(a) 16\n(b) 106\n(c) 66\n(d) 60\n",
+"answer": "d",
+"more_info": "La respuesta era 60, 10x6=60",
+"user_response": "None"
+    },
+    "49": {
+"question": "Cuanto es 4 x 7?\n(a) 28\n(b) 18\n(c) 32\n(d) 36\n",
+"answer": "a",
+"more_info": "La respuesta era 28, 4x7=28",
+"user_response": "None"
+    },
+    "50": {
+"question": "Cuanto es 4 x 5?\n(a) 10\n(b) 26\n(c) 21\n(d) 20\n",
+"answer": "d",
+"more_info": "La respuesta era 20, 4x5=20",
+"user_response": "None"
+    },
+    "51": {
+"question": "Cuanto es 3 x 6?\n(a) 2\n(b) 81\n(c) 8\n(d) 18\n",
+"answer": "d",
+"more_info": "La respuesta era 18, 3x6=18",
+"user_response": "None"
+    },
+    "52": {
+"question": "Cuanto es 5 x 9?\n(a) 15\n(b) 59\n(c) 18\n(d) 45\n",
+"answer": "d",
+"more_info": "La respuesta era 45, 5x9=45",
+"user_response": "None"
+    },
+    "53": {
+"question": "Cuanto es 3 x 5?\n(a) 15\n(b) 18\n(c) 25\n(d) 35\n",
+"answer": "a",
+"more_info": "La respuesta era 15, 3x5=15",
+"user_response": "None"
+    },
+    "54": {
+"question": "Cuanto es 3 x 3?\n(a) 16\n(b) 33\n(c) 18\n(d) 9\n",
+"answer": "d",
+"more_info": "La respuesta era 9, 3x3=9",
+"user_response": "None"
+    },
+    "55": {
+"question": "Cuanto es 2 x 5?\n(a) 10\n(b) 25\n(c) 5\n(d) 2\n",
+"answer": "a",
+"more_info": "La respuesta era 10, 2x5=10",
+"user_response": "None"
+    },
+    "56": {
+"question": "Cuanto es 2 x 4?\n(a) 2\n(b) 81\n(c) 8\n(d) 18\n",
+"answer": "c",
+"more_info": "La respuesta era 8, 2x4=8",
+"user_response": "None"
+    },
+    "57": {
+"question": "Cuanto es 5 x 4?\n(a) 18\n(b) 40\n(c) 20\n(d) 32\n",
+"answer": "c",
+"more_info": "La respuesta era 20, 5x4=20",
+"user_response": "None"
+    },
+    "58": {
+"question": "Cuanto es 10 x 5?\n(a) 80\n(b) 15\n(c) 55\n(d) 50\n",
+"answer": "d",
+"more_info": "La respuesta era 50, 10x5=50",
+"user_response": "None"
+    },
+    "59": {
+"question": "Cuanto es 5 x 7?\n(a) 75\n(b) 35\n(c) 27\n(d) 10\n",
+"answer": "b",
+"more_info": "La respuesta era 35, 5x7=35",
+"user_response": "None"
+    },
+    "60": {
+"question": "Cuanto es 6 x 2?\n(a) 12\n(b) 14\n(c) 18\n(d) 6\n",
+"answer": "a",
+"more_info": "La respuesta era 12, 6x2=12",
+"user_response": "None"
+    }
+
+}
